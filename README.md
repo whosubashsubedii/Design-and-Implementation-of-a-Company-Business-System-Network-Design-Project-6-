@@ -9,12 +9,16 @@ This project involves the **design and implementation of a comprehensive network
 A new building with **three floors** and **six departments** requires a robust network infrastructure:
 
 - **First Floor**  
-  - Sales & Marketing Department (120 users)  
-  - Human Resources & Logistics Department (120 users)
+  - Sales Department (60 users)
+  - Marketing Department (60 users)  
+  - Human Resources Department (60 users)
+  - Logistics  Department (60 users)
 
 - **Second Floor**  
-  - Finance & Accounts Department (120 users)  
-  - Administrator & Public Relations Department (120 users)
+  - Finance  Department (60 users)
+  - Accounts Department (60 users)  
+  - Administrator Department (60 users)
+  - Public Relations Department (60 users)
 
 - **Third Floor**  
   - ICT Department (120 users)  
